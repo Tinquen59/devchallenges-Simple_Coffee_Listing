@@ -1,0 +1,51 @@
+.qa-Bg__body--img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.qa- {
+    &Main {
+        &__container {
+            position: relative;
+            margin: 120px auto;
+            padding: 90px 130px;
+            width: 80%;
+            border-radius: $border-rd;
+            background-color: $secondary-color;
+            z-index: 10;
+        }
+
+        &__intro {
+            position: relative;
+            width: 50%;
+            margin: auto;
+            text-align: center;
+
+            &--text {
+                color: $primary-color;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            }
+        }
+
+        &__filter {
+            text-align: center;
+
+            & .qa-Button-filter {
+                margin-right: 1em;
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+}
+
+.qa-Products__container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}

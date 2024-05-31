@@ -1,0 +1,40 @@
+.qa-Card-products__container {
+    width: 31%;
+    margin: 2em 0.8em;
+
+    & .qa-Card-products {
+        &__body {
+            width: 100%;
+
+            &--img {
+                width: 100%;
+                border-radius: $border-rd;
+            }
+        }
+
+        &__footer {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 0.5rem;
+
+            & > div:last-child {
+                text-align: right;
+            }
+
+            &--price {
+                display: inline-block;
+                padding: 0.4em 0.6em;
+                background-color: $success-color;
+                color: $dark-color;
+                font-size: 0.75rem;
+                font-variation-settings: "wght" 700;
+                border-radius: $border-rd-xs;
+            }
+
+            &--available {
+                margin-top: 0.5rem;
+                color: $error-color;
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.qa-Rating__container {
+    display: flex;
+    margin-top: 0.5rem;
+
+    &--star {
+        margin-right: 0.5rem;
+    }
+
+    &--rating {
+        margin: auto;
+    }
+
+    &--votes {
+        color: $primary-color;
+    }
+}
