@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/devchallenges-Simple_Coffee_Listing/static/css/main.7048cce8.css",
+    "main.js": "/devchallenges-Simple_Coffee_Listing/static/js/main.6bfd21e2.js",
+    "static/js/787.660e0fd3.chunk.js": "/devchallenges-Simple_Coffee_Listing/static/js/787.660e0fd3.chunk.js",
+    "static/media/bg-cafe.jpg": "/devchallenges-Simple_Coffee_Listing/static/media/bg-cafe.ed22aff1614ae837ee21.jpg",
+    "static/media/DMSans-VariableFont.ttf": "/devchallenges-Simple_Coffee_Listing/static/media/DMSans-VariableFont.90130db6a4fc53f17a88.ttf",
+    "static/media/Star_fill.svg": "/devchallenges-Simple_Coffee_Listing/static/media/Star_fill.6a3dad060cdb5c863b8fcb3095239b5c.svg",
+    "static/media/Star.svg": "/devchallenges-Simple_Coffee_Listing/static/media/Star.e6c9605c61e0305626b0348906705ab8.svg",
+    "index.html": "/devchallenges-Simple_Coffee_Listing/index.html",
+    "main.7048cce8.css.map": "/devchallenges-Simple_Coffee_Listing/static/css/main.7048cce8.css.map",
+    "main.6bfd21e2.js.map": "/devchallenges-Simple_Coffee_Listing/static/js/main.6bfd21e2.js.map",
+    "787.660e0fd3.chunk.js.map": "/devchallenges-Simple_Coffee_Listing/static/js/787.660e0fd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7048cce8.css",
+    "static/js/main.6bfd21e2.js"
+  ]
+}
